@@ -1,0 +1,26 @@
+.hp-contener{
+	background-image: url("images/payments-banner-graphic.png");
+	height: 600px;
+}
+
+.simple{
+	text-align: center;
+}
+.get{
+	text-align: center;
+}
+.boutton{
+	text-align: center;
+}
+.sign{
+	float:right;
+	position: absolute; top: 30px; right: 30px;
+}
+.login{
+	float:right;
+	position: absolute; top: 30px; right: 120px;
+}
+.bonsai{
+	float:left;
+	position: absolute; top:30px;left:60px
+}
